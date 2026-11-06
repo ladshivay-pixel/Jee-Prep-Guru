@@ -1,0 +1,6 @@
+{
+  "name": "Mechatronics PCM Engine",
+  "description": "First-principles deep understanding of JEE PCM, applied directly to robotics, coding, hardware engineering, and startup building.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
